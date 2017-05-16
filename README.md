@@ -11,9 +11,10 @@
 
 ### Challenge
 - Write an OCR program to process bank account numbers
+This dojo comes from a series available at http://codingdojo.org and has been run in many guises, such as outside in TDD training.  Please feel free to tackle the problem in any way you please though!!!
 
 ### User Story 1
-User Story 1
+
 
 You work for a bank, which has recently purchased an ingenious machine to assist in reading letters and faxes sent in by branch offices. The machine scans the paper documents, and produces a file with a number of entries which each look like this:
 ```
